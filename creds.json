@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "testpokemon-305703",
+  "private_key_id": "c47b72820f1b4bbab0396a2b5b4c3883d5f477e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDf+Q9WIyFOnnUT\nCcNz++CZstRfdphyoFlmG6U+d9EFPicZEtU3SHbliJn5efw4lj7XB6hYtWczYm7x\ng8N4A1y/iEHXMI/zN0j0TT9/lPOwOzSWo2vfHxsPgbY9PfWOhFtIhmTYBr80paF9\nK+u14OhWri8iSs5HDXbpJWnqhcZponhsr/5QwSXk5R4b5Fi3YLAMPb4EeYYXJvBi\nhzVeBVNv6FNccfKv2NYfvnmEetOAp42ZvZ+KdANlGu0bOWsGfR3/SOxhS7RWJSYG\nPwKJn+Ra10pIE+SNqSujZBPaBDTQf/Sb766pkGZKAaaR9g7IrGIAuKRkscLCbvv4\n/A56so5dAgMBAAECggEAGHVNhjHIZ5o4vTc9+5q4JHippfIgxDW8BYFD2o5BimHG\n6b9LfuHAMCEqdVqrny9TFe7NZMCMkEkxxdiGfkLZvEXAMORp99yj8B/GbSOCOA7D\nF6cpdsBiF1+qG8Z6HBHamREqDogwFar3t2BWOXKh1KNpXMSQAaTYBS5TgmuQ5wSF\nZe9nsHBlIC1oAaUVBix4r6oJFT6wctyzidkEPPIP5bwGx+270ts0OovFPv25CMbW\nPoB7pG65KPcspPGI7g+Mu3iSMqRNbbXTbNJuAyKO+d2FVszy5Bpio/e/GfECDlh+\nghZiJlTyZ2vcUWuVdvazmckZsgXt++Q+fw7g197zKQKBgQD7+TIHLs5vzXuQzT+Z\nECLVJAw7EOu68xYSpSk9g/CHjn62DVkYz5T4M9CazjasxLmykAToPAj/Ad6W555J\nbUbw///mYX2IWFYvPcOOzIfCz6jnAgA6rnDpQMFR81bOsk5VdF3+h57Zt6DqdzoN\nWkXmla1bYUPRfV2/DFlW9+osxQKBgQDjjVD/Wz/SMgrQ/fE6jSNoaz1HtJ1x8gtl\nmBMNif+XFOpuo5z1yqilowdxvvNanDSSsGmdEBMyiuk4X6/GepV8Ckhh6aVEDjfN\nYey3VWAY30Axs8rT/6vqDjQnHaAw1Y0eZWAVdmcr9eiXW7AkkvFbxU22KZVFlAEn\nfLAG50KkuQKBgQDJdgnA4nSdwY4tTV2vFM602biJtVK0y8z3JWSe0ZIL4CuBhZSa\nGMaD2HHOhFgEtNnAYhP6Vp3evfDpeND+5kdVQ2moGoSS8gYeiWSFFRTq9ruVz+y8\n/mI6rNKkokniw3+MJZlNe8PPUVlwfdlFecrvvPa5XEAsC+9bZBU+SsPJ/QKBgQDC\nh1rJEl76+KDajV0d6u5sI9FdbYBzmrI3hcwz9Nc1d0H6l5BlZ3zJLRf+G3m66nLf\nPETtaoKe4LYD5XlFOiJ0ye2bFryb83Os9pwBFtFyMdiVJNiuZ5G2I7JeBiud09Iy\nPAPqFTCaGj1et5lbiusewwtuQRpFQwPBmAx7ulP0sQKBgBcHBl3hPnfjHWTZKFrx\n0+aW9AYCm4a/63NcYI4i4nLWK00LQPQ+VoC9LtqrArnnhI7vOaADApdbJekpUntz\n5O3k2ZztKZpBQOy1z4J5iOmUK7paTufWkZ3YRsEd4Bxmz1gx159YkACctJ4NXOaF\nMg9oRJw3i2oU93A/mcyDWGVE\n-----END PRIVATE KEY-----\n",
+  "client_email": "oscar-821@testpokemon-305703.iam.gserviceaccount.com",
+  "client_id": "104660628275141558053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oscar-821%40testpokemon-305703.iam.gserviceaccount.com"
+}
